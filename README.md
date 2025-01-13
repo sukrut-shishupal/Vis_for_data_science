@@ -1,7 +1,5 @@
 # CellMap
 
-## Github Content
-
 ### 1. Code
 The code, including HTML and JavaScript files, is located in the `docs` directory.
 
