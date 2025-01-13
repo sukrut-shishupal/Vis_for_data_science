@@ -26,17 +26,3 @@ The code, including HTML and JavaScript files, is located in the `docs` director
 ## Features
 
 All features are explained with annotated images or detailed paragraphs in the process book, providing comprehensive insights into their design and implementation.
-
----
-
-## Please adjust the zoom scale of your browser to make sure the color legend of the sub(right)-canvas is right next to the edge of the browser for a better experience. For example, this is not the best when:
-![](docs/assets/bad.png)
-## because the supportive panel won't fully cover the sub-canvas:
-![](docs/assets/bad-con.png)
-
-## It will be better if you can adjust the zoom scale:
-![](docs/assets/better.png)
-## so:
-![](docs/assets/better-con.png)
-
-## This is not critical to the project, but this could also be future work considering this app might be run on devices with different screen sizes.
